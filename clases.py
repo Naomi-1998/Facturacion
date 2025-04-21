@@ -62,6 +62,8 @@ class Persona:
             f"{email_info}"
         )
 
+
+#12345
 # Ejemplo de uso
 if __name__ == "__main__":
     """OBJETO:
