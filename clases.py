@@ -81,7 +81,7 @@ if __name__ == "__main__":
     print(f"Nueva cédula de persona1: {persona1.cedula}")
   
 
- 
+ #OT9 <3
  
  
  
